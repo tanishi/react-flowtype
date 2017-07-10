@@ -1,0 +1,16 @@
+{
+  "name": "react-flowtype-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "flow-bin": "^0.49.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "flow": "flow"
+  },
+  "author": "",
+  "license": "ISC"
+}
